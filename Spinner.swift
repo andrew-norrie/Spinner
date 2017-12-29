@@ -94,7 +94,7 @@ class Spinner
 
             context.addPath(path);
 
-            context.setFillColor(dark)
+            context.setFillColor(color)
             context.fillPath()
         }
 
